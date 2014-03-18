@@ -1,0 +1,4 @@
+seminars
+========
+
+Seminar announcements
